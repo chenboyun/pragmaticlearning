@@ -1,2 +1,2 @@
 # pragmaticlearning
-use to pragmatclearning
+use to pragmatclearning练习如何合并项目
